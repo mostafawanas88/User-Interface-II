@@ -1,1 +1,17 @@
 /* Add CSS styling here */
+html {
+    font-size: 62.5%;
+}
+
+h1 {
+    font-family: "Chelsea Market";
+    font-size: 5rem;
+}
+nav {
+    display: flex;
+    flex-flow: column wrap;
+    font-family: "Roboto Mono";
+    font-size: 1rem;
+    border: 1px solid black;
+    margin: 10px 10px 10px 10px;
+}
