@@ -143,5 +143,12 @@ nav {
   }
 
   @media (max-width: 800px) {
-      
+      /* this is for tablet. need to adjust the arrangement of nav and picture, resize them and amend font size */
+      h1 {
+          font-size: 2rem;
+          color: black;
+      }
+      nav {
+          flex-flow: column wrap;
+      }
   }
