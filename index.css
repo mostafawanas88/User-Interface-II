@@ -1,7 +1,7 @@
 
 html {
     font-size: 62.5%;
-    width: 70%;
+    width: 90%;
     align-content: center;
     height: 75%;
 }
@@ -140,4 +140,8 @@ nav {
       margin-left: 0%;
       width: 100%;
     }
+  }
+
+  @media (max-width: 800px) {
+      
   }
